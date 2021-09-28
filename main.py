@@ -10,3 +10,11 @@ def convert(seconds):
 
  n = 12345
  print(convert(n))
+ """Converts number (seconds) to seconds, minutes and hours.
+
+ Parameters
+ ----------
+ seconds : int
+     Number of seconds
+ """
+
